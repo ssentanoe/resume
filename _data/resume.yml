@@ -32,6 +32,31 @@ honors:
     duration: 2011 - 2013
     location: Serpong, Indonesia
     organization: Swiss German University
+publications:
+  - title: Virtual Machine Introspection Based SSH Honeypot
+    authors: <b>Sentanoe, S.</b>, Taubmann, B. and Reiser, H.P.
+    conference: The Honeynet Project Annual Workshop
+    year: 2019
+  - title: Reconfigurable monitoring and performance awareness in VMI-based SIEM systems (Poster)
+    authors: Rakotondravony, N., Taubmann, B., <b>Sentanoe, S.</b> and Reiser, H.P.
+    conference: Security and Privacy (IEEE)
+    year: 2019
+  - title: <i>Sarracenia:</i> Enhancing the Performance and Stealthiness of SSH Honeypots Using Virtual Machine Introspection
+    authors: <b>Sentanoe, S.</b>, Taubmann, B. and Reiser, H.P.
+    conference: Nordic Conference on Secure IT Systems
+    year: 2018
+  - title: Virtual Machine Introspection Based SSH Honeypot (Poster)
+    authors: <b>Sentanoe, S.</b>, Taubmann, B. and Reiser, H.P.
+    conference: European Conference on Computer Systems
+    year: 2017
+  - title: Virtual Machine Introspection Based SSH Honeypot
+    authors: <b>Sentanoe, S.</b>, Taubmann, B. and Reiser, H.P.
+    conference: Workshop on Security in Highly Connected IT Systems
+    year: 2017
+  - title: Iris localization using gradient magnitude and fourier descriptor
+    authors: <b>Sentanoe, S.</b>, Nugroho, A.S., Galinium, M., Hartono, R.N., Uliniansyah, M.T. and Layooari, M.
+    conference: International Conference on Advanced Computer Science and Information System (IEEE)
+    year: 2014
 skills:
   - title: Skill Group 1
     items: Lorem, Ipsum, Dolor, Sit, Amet
@@ -44,7 +69,9 @@ experience:
     duration: Feb 2018 - Now
     company: Universität Passau
     location: Passau, Germany
-    description: a
+    descriptions:
+      - aaaa
+      - bbbb
   - title: Google Summer of Code Student
     duration: May 2018 - Aug 2018
     company: The Honeynet Project
