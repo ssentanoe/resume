@@ -1,5 +1,5 @@
-title: Résumé
-baseurl: "/resume/"
+title: My Awesome Résumé
+baseurl: ""
 exclude:
   - README.md
   - "README_zh-CN.md"
