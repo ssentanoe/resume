@@ -15,10 +15,12 @@ education:
     duration: 2015 - 2017
     location: Passau, Germany
     major: M.Sc., in Computer Science
+    score: 1.2 - <i>Sehr gut</i> predicate (German scoring system)
   - university: Swiss German University
     duration: 2010 - 2014
     location: Serpong, Indonesia
-    major: S.Kom., B.Eng., in Information Technology 
+    major: S.Kom., B.Eng., in Information Technology
+    score: 3.98 - <i>Summa Cum Laude</i> predicate (GPA system)
 honors:
   - name: DAAD STIBET Scholarship Recepient
     duration: 2016 - 2017
@@ -70,13 +72,15 @@ experience:
     company: Universität Passau
     location: Passau, Germany
     descriptions:
-      - aaaa
-      - bbbb
+      - "Worked on two project: <i>ARADIA</i> and <i>DINGfest</i>. Both projects are focusing on digital forensic leveraging Virtual Machine Introspection"
+      - "Involved on teaching of <i>Cloud Security</i>: preparing exercises, projects and grading the exams"
   - title: Google Summer of Code Student
     duration: May 2018 - Aug 2018
     company: The Honeynet Project
     location: Passau, Germany
-    description: a
+    descriptions: 
+      - "Accomplished a project with title: <i>Improving The Stealthiness of Virtual Machine Introspection on Xen</i>"
+      - "Write up: <a href=\"https://summerofcode.withgoogle.com/archive/2018/projects/5050265212289024/\">Click me!</a>"
   - title: Founder
     duration: Feb 2015 - Feb 2018
     company: PT. Sentra Cipta Kreasindo
@@ -86,7 +90,8 @@ experience:
     duration: Jan 2016 - Nov 2017
     company: Universität Passau
     location: Passau, Germany
-    description: a
+    descriptions: 
+      - "Involved in two projects: <i>FORSEC</i> and <i>DINGfest</i>"
   - title: Website Administrator
     duration: Jan 2014 - Sep 2015
     company: Swiss German Univesity
