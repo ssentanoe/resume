@@ -74,18 +74,21 @@ experience:
     descriptions:
       - "Worked on two project: <i>ARADIA</i> and <i>DINGfest</i>. Both projects are focusing on digital forensic leveraging Virtual Machine Introspection"
       - "Involved on teaching of <i>Cloud Security</i>: preparing exercises, projects and grading the exams"
+      - "Supervised some Master and Bachelor Theses"
   - title: Google Summer of Code Student
     duration: May 2018 - Aug 2018
     company: The Honeynet Project
     location: Passau, Germany
     descriptions: 
       - "Accomplished a project with title: <i>Improving The Stealthiness of Virtual Machine Introspection on Xen</i>"
-      - "Write up: <a href=\"https://summerofcode.withgoogle.com/archive/2018/projects/5050265212289024/\">Click me!</a>"
+      - "Write up: <a target = \"_blank\" href=\"https://summerofcode.withgoogle.com/archive/2018/projects/5050265212289024/\">Click me!</a>"
   - title: Founder
     duration: Feb 2015 - Feb 2018
     company: PT. Sentra Cipta Kreasindo
     location: Jakarta, Indonesia
-    description: a
+    descriptions:
+      - "Website, Enterprise Resource Planning and Full Stack development"
+      - "<a target = \"_blank\" href=\"https://zentrum.id\">Click me!</a>"
   - title: Research Assistant
     duration: Jan 2016 - Nov 2017
     company: Universität Passau
@@ -96,37 +99,50 @@ experience:
     duration: Jan 2014 - Sep 2015
     company: Swiss German Univesity
     location: Serpong, Indonesia
-    description: a
+    descriptions:
+      - "Administered the content of the website"
   - title: Software Developer (Freelance)
     duration: Oct 2014 - Apr 2015
     company: C2Call GmbH
     location: Werl, Germany
-    description: a
+    descriptions:
+      - "Made C2Call SDK tutorial videos"
+      - "<a target = \"_blank\" href=\"https://www.youtube.com/watch?v=SosxCr5Dz6g\">Click me!</a> and <a target = \"_blank\" href=\"https://www.youtube.com/watch?v=rb-ilf7-PCc\">me!</a>"
   - title: System Administrator and Software Developer
     duration: Jan 2013 - Jan 2015
     company: Jakarta Online Solution (JKOS Indonesia)
     location: Jakarta, Indonesia
-    description: a
+    descriptions:
+      - "Maintained all servers that based on Linux (Ubuntu Server and CentOS)"
+      - "Developed some internal systems that requested by internal client using PHP (WebBased)"
   - title: Software Developer (Internship)
     duration: Mar 2013 - Aug 2013
     company: C2Call GmbH
     location: Werl, Germany
-    description: a
+    descriptions:
+      - "Translated the website's contents from English to Indonesian"
+      - "Created several sample apps using C2Call SDK"
+      - "Made some tutorial videos"
+      - "<a target = \"_blank\" href=\"https://www.youtube.com/watch?v=DdY_gX2r9dU\">Click me!</a> and <a target = \"_blank\" href=\"https://www.youtube.com/watch?v=vR1PrH9-WNk\">me!</a> and <a target = \"_blank\" href=\"https://www.youtube.com/watch?v=qyp_BFORvIk\">me!</a> and <a target = \"_blank\" href=\"https://www.youtube.com/watch?v=fLhDXwm5WjE\">finally, me!</a>"
   - title: System Administrator (Freelance)
     duration: Mar 2012 - Feb 2013
     company: Agromediagroup
     location: Jakarta, Indonesia
-    description: a
+    descriptions:
+      - "Maintained internal mail server"
   - title: Software Developer (Internship)
     duration: Jan 2012 - Feb 2012
     company: Agromediagroup
     location: Jakarta, Indonesia
-    description: a
+    descriptions:
+      - "Developed a system for human resources department"
   - title: Honeypot Developer (Internship)
     duration: Oct 2011 - Dec 2011
     company: ID-SIRTII
     location: Jakarta, Indonesia
-    description: a
+    descriptions:
+      - "Deployed some honeypots to the Internet"
+      - "Made a simple dashboard to display the log files from the honeypots"
 projects:
   - name: Project Name 1
     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -141,3 +157,17 @@ languages:
     proficiency: Work proficiency
   - name: Indonesian
     proficiency: Native speaker
+volunteer:
+  - title: Student's Tutor
+    duration: 2016 - 2017
+    company: Universität Passau
+    location: Passau, Germany
+    descriptions:
+      - "Helped new students regarding living in Passau, bank account, visa and study plan"
+  - title: Website Developer & Administrator
+    duration: 2015 - 2018
+    company: Yayasan Pembinaan Anak Cacat Jakarta
+    location: Jakarta, Indonesia
+    descriptions:
+      - "Developed the website using WordPress engine"
+      - "Hosted the website and administered it"
