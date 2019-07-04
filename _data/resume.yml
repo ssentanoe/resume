@@ -171,3 +171,12 @@ volunteer:
     descriptions:
       - "Developed the website using WordPress engine"
       - "Hosted the website and administered it"
+references:
+  - name: Tamas K Lengyel
+    email: tamas.lengyel(_at_)intel.com
+    position: Senior Security Researcher
+    company: Intel
+  - name: Hans P Reiser
+    email: hr(_at_)sec.uni-passau.de
+    position: Junior Professor at Information Security
+    company: Universität Passau
