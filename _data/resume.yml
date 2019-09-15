@@ -67,13 +67,14 @@ skills:
   - title: Skill Group 3
     items: Sed do, Eiusmod, Tempor, Incididunt
 experience:
-  - title: Researcher
-    duration: Feb 2018 - Now
+  - title: Security Researcher
+    duration: Feb 2018 - Sep 2019
     company: Universität Passau
     location: Passau, Germany
     descriptions:
       - "Worked on two project: <i>ARADIA</i> and <i>DINGfest</i>. Both projects are focusing on digital forensic leveraging Virtual Machine Introspection"
       - "Involved on teaching of <i>Cloud Security</i>: preparing exercises, projects and grading the exams"
+      - "Managing private cloud infrastructure for research and teaching purposes"
       - "Supervised some Master and Bachelor Theses"
   - title: Google Summer of Code Student
     duration: May 2018 - Aug 2018
