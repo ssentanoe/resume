@@ -3,13 +3,13 @@ name: Stewart <b>Sentanoe</b>
 jobtitle: Computer Security <i class="fa fa-circle  aria-hidden"></i> Software Architect <i class="fa fa-circle  aria-hidden"></i> Computer Enthusiast
 contact:
   - icon: fa-envelope
-    text: stewart@sentanoe.me
+    text: stewart(_at_)sentanoe.me
   - icon: fa-linkedin
     text: stewart-sentanoe
     link: https://www.linkedin.com/in/stewart-sentanoe/
-  - icon: fa-globe
-    text: stewart.sentanoe.me
-    link: https://stewart.sentanoe.me
+  - icon: fa-github
+    text: ssentanoe
+    link: https://github.com/ssentanoe/
 education:
   - university: Universität Passau
     duration: 2015 - 2017
@@ -172,3 +172,12 @@ volunteer:
     descriptions:
       - "Developed the website using WordPress engine"
       - "Hosted the website and administered it"
+references:
+  - name: Tamas K Lengyel
+    email: tamas.lengyel(_at_)intel.com
+    position: Senior Security Researcher
+    company: Intel
+  - name: Hans P Reiser
+    email: hr(_at_)sec.uni-passau.de
+    position: Junior Professor at Information Security
+    company: Universität Passau
